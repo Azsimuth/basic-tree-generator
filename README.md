@@ -8,12 +8,12 @@ f(int height) -> (draws a tree to the screen)
 
 ## Requires
 [Game maker 8.2](https://gm82.cherry-treehouse.com/), Game Maker 8.2 Core extention. ( for point_in_circle() ) 
-[/media/sprites](/media/sprites) to be loaded, and named spr_folliage_main, spr_folliage_greener, ... and so on, as the code references it.
+[/media/sprites](./media/sprites) to be loaded, and named spr_folliage_main, spr_folliage_greener, ... and so on, as the code references it.
 
 ## Output
 
-![White](media/white_cherry.gif)
-![Pink](media/pink_cherry.gif)
+![White](https://github.com/Azsimuth/basic-tree-generator/blob/main/media/white-cherry.gif)
+![Pink](https://github.com/Azsimuth/basic-tree-generator/blob/main/media/pink-cherry.gif)
 
 ## Improvement opportunities
 
